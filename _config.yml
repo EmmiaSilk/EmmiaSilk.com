@@ -4,12 +4,11 @@ email: contact@emmiasilk.com
 description: >-
   Emmia Silk's personal website
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://EmmiaSilk.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://EmmiaSilk.com" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: EmmiaSilk
 
 # Build settings
 markdown: kramdown
-# theme: minima
 plugins:
   - jekyll-feed
 
@@ -23,5 +22,3 @@ exclude:
   - vendor/cache/
   - vendor/gems/
   - vendor/ruby/
-
-theme: jekyll-theme-minimal
