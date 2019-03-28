@@ -1,2 +1,2 @@
-# EmmiaSilk.github.io
-Emmia's personal site
+# EmmiaSilk.com
+This is my personal website.
