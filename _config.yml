@@ -11,6 +11,7 @@ github_username: EmmiaSilk
 markdown: kramdown
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
 
 # Exclude from processing
 exclude:
