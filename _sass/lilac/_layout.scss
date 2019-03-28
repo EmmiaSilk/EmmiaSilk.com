@@ -4,17 +4,18 @@
 }
 
 .wrapper {
-  padding: 1em 15px;
-}
-
-.site-header {
-  text-align: center;
+  @include padding-horizontal(15px);
 }
 
 .page-content {
-
+  > .wrapper {
+    @include padding-vertical(1em)
+  }
 }
 
 .site-footer {
   text-align: center;
+  > .wrapper {
+    @include padding-vertical(1em)
+  }
 }
