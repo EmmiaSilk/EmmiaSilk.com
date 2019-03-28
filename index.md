@@ -4,4 +4,4 @@ title: About
 permalink: /
 ---
 
-Hello World!
+This site is currently under construction.
